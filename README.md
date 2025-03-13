@@ -10,11 +10,3 @@ A Gradio-based application that allows users to upload CSV files, ask questions 
 - Interactive data visualizations (bar charts, line charts, scatter plots, histograms)
 - User-friendly interface built with Gradio
 
-## Requirements
-
-- Python 3.8 or higher
-- Ollama installed locally with Llama 3.1 model
-
-## Installation
-
-1. Clone the repository:
